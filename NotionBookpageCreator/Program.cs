@@ -30,7 +30,7 @@ var requestBody = new
             url = "https://upload.wikimedia.org/wikipedia/commons/6/62/Tuscankale.jpg"
         }
     },
-    icon = new
+    icon = new //
     {
         type = "emoji",
         emoji = "🥬"
